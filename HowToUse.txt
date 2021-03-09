@@ -1,0 +1,2 @@
+1. open project folder then run 'npm install' or 'yarn install' in terminal or command line
+2. run 'yarn start' or 'npm run start' in terminal or in command line
